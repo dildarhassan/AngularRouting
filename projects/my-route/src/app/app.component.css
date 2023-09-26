@@ -1,0 +1,12 @@
+/* Active link style */
+.nav-link-active {
+    background-color: #007bff; /* Change to your desired active color */
+    color: white; /* Change to your desired text color for active link */
+  }
+  
+  /* Inactive link style */
+  .nav-link-inactive {
+    background-color: transparent; /* Change to your desired inactive color */
+    color: #333; /* Change to your desired text color for inactive link */
+  }
+  
